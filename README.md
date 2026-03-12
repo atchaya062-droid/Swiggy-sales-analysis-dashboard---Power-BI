@@ -18,7 +18,7 @@ This project analyzes Swiggy food delivery data to understand revenue, orders, c
 - Monthly revenue trend
 
 ## Tools Used
-- Power BI / Excel / Python (mention yours)
+- Power BI 
 - Data Visualization
 - Data Analysis
 
@@ -26,4 +26,4 @@ This project analyzes Swiggy food delivery data to understand revenue, orders, c
 ![Dashboard](dashboard.png)
 
 ## Author
-Your Name
+Atchaya C
